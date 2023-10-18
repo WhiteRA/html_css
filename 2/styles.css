@@ -3,3 +3,25 @@
     padding: 0;
     text-decoration: none;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item11 {
+    width: 1899px;
+    height: 476px;
+    border: 1px solid #F30606;
+}
+
+.item22 {
+    width: 1881px;
+    height: 898px;
+    border: 1px solid #0A06E8;
+}
